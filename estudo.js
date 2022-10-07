@@ -15,4 +15,11 @@ function opa(){
     document.write(tabuada + " x 10 ="+(tabuada*10)+"<br>");
     document.write("Feito por " + nome)
 }
+function calcula(){
+    let c = document.getElementById("valor").value;
+    let j = document.getElementById("juros").value;
+    let r = c * (1 + (j/100));
+    document.write("Seu resultado é: " + r);
+}
+
 
