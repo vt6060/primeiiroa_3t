@@ -1,6 +1,8 @@
-# Terceiro Trimestre
-## Identificação
-Vitor Hugo Yankauskas - Nr.35
+# Terceiro trimestre 
 
-## Conteúdo
-HTML, CSS e JavaScript
+## Identificação
+Vitor Hugo Yankauskas
+n - 35
+
+## Conteudo
+HTML CSS e JavaScriptt
