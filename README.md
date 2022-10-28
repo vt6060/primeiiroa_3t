@@ -1,8 +1,7 @@
-# Terceiro trimestre 
+# TERCEIRO trimestre
 
-## Identificação
-Vitor Hugo Yankauskas
-n - 35
+## identificaçao
+Nome: Antonio gabriel lucizano biassi N: 4
 
-## Conteudo
-HTML CSS e JavaScriptt
+## conteudo 
+HTML, CSS e javaScriptt
