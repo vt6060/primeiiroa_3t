@@ -20,3 +20,24 @@ padding: 5px;
     margin-bottom: 10px;
     
 }
+.calculadora button {
+margin-top: 10px;
+background: rgb(97, 196, 97);
+color: black;
+padding: 3px 13px;
+
+}
+.calculadora button:hover {
+    background: white;
+    color: black;
+    cursor: pointer;
+}
+#splistameses {
+    text-align: start;
+    border-style:groove;
+    border-color: black;
+    border-width: 2px;
+    color: rgb(0, 0, 0);
+    background: rgb(117, 238, 125);
+    margin-top: 13px;
+}
