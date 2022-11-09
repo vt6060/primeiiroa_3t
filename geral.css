@@ -12,6 +12,11 @@ color: black;
 border-radius: 9px;
 padding: 5px;
 }
+.calculadora input :focus{
+    background: white;
+    color: black;
+}
+
 #sptotal {
     background: rgb(99, 201, 113);
     color: black;
