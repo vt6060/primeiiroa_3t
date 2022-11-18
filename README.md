@@ -4,4 +4,4 @@
 Nome: Vitor Hugo Yankauskas N: 35
 
 ## conteudo 
-HTML, CSS e javaScriptt
+HTML, CSS e javaScript
